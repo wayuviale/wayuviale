@@ -1,5 +1,4 @@
 <h1 align="center">Hey folks 👋</h1>
-<hr>
 🌱 Languages: Spanish, English. 🌍 Learning: Swedish & German<br>
 🌱 Programming languages: C++. Learning: Linux & OpenGL<br>
 🌱 Currently studying at UTFSM<br>
