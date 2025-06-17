@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 Languages: Spanish, English. Learning: Swedish & German.
-🌱 Programming languages: C++
-🌱 Currently studying at UTFSM
+-🌱 Languages: Spanish, English. Learning: Swedish & German.
+-🌱 Programming languages: C++
+-🌱 Currently studying at UTFSM
