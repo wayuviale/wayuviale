@@ -1,4 +1,4 @@
-<h1 align="center">Hey folks, it's Wyv here</h1>
+<h1 align="center">Hey folks, it's Wyv here!</h1>
 🌍 Languages: 🇪🇸Español, 🇺🇸English. Learning: 🇸🇪Svenska, 🇩🇪Deutsch<br><br>
 💻 Programming languages: C++. Learning: Linux & OpenGL (know zilch)<br><br>
 🏫 Currently studying at UTFSM (2nd year)<br><br>
