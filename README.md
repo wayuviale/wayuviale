@@ -4,7 +4,7 @@
 🏫 Currently studying at UTFSM (4th semester)<br><br>
 🌱 Coding since 2022<br><br>
 🌱 I do 3D printing & drawings as well<br><br>
-✉️ Contact: blviale0@gmail.com<br><br>
+✉️ Contact: wayu.viale@gmail.com<br><br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
