@@ -1,9 +1,9 @@
-<h1 align="center">Hey folks, it's Wyv here!</h1>
-🌍 Languages: 🇪🇸Español, 🇺🇸English. Learning: 🇸🇪Svenska, 🇩🇪Deutsch<br><br>
-💻 Programming languages: C++. Learning: Linux & OpenGL (know zilch)<br><br>
-🏫 Currently studying at UTFSM (2nd year)<br><br>
-🌱 Coding since 2022!<br><br>
-🌱 I also do 3D printing & drawings<br><br>
+<h1 align="center">Hey guys, it's Wyv!</h1>
+🌍 Languages: 🇪🇸 L1, 🇺🇸 C1. Learning: 🇩🇪 A2, 🇫🇷 A1-<br><br>
+💻 Programming Languages: C++<br><br>
+🏫 Currently studying at UTFSM (4th semester)<br><br>
+🌱 Coding since 2022<br><br>
+🌱 I do 3D printing & drawings as well<br><br>
 ✉️ Contact: blviale0@gmail.com<br><br>
 
 <div align="left">
