@@ -1,5 +1,5 @@
 <h1 align="center">Hey guys, it's Wyv!</h1>
-🌍 Languages: 🇪🇸 L1, 🇺🇸 C1. Learning: 🇩🇪 A2, 🇫🇷 A1-<br><br>
+🌍 Languages: 🇪🇸 Español L1, 🇺🇸 English C1. Learning: 🇩🇪 Deutsch A2, 🇫🇷 Français A1-<br><br>
 💻 Programming Languages: C++<br><br>
 🏫 Currently studying at UTFSM (4th semester)<br><br>
 🌱 Coding since 2022<br><br>
